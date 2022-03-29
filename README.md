@@ -1,10 +1,11 @@
-### Hi there, I'm Astonkim 👋
+### Hi there, I'm Astonkim 👋  
+(📍Gangnam-gu, Seoul, South Korea)
 
-- 💼 I'm Personal Trainer & Pilates Instructor who is very interested in coding!
-- 🎓 I’m double majoring in Business Admin. & Data Science Software
+💼 I'm Personal Trainer & Pilates Instructor who is very interested in coding!
+🎓 I’m double majoring in Business Admin. & Data Science Software
 
 I'm not much talented ...
-- ⚡️ So I just practice, practice and practice!
+⚡️ So I just practice, practice and practice!
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
