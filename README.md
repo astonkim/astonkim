@@ -4,7 +4,7 @@
 
 - 🎓 I'm double majoring in Business Admin. & Data Science Software in Dongguk Univ.
 - 🌐 I'm the member of Mensa Korea since 2017.
-- 🧑‍💻 I'm interested in developing many things related to human health care system. 
+- 🧑‍💻 I'm interested in developing many things related to human health care system.
 
 I'm not much talented...
 
