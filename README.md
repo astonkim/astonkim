@@ -32,5 +32,6 @@ I'm not much talented...
 
 <h3>👩‍💻 My Github Stats 👩‍💻</h3>
 <div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=astonkim&&show_icons=true&theme=radical)]
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=astonkim&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
