@@ -1,6 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fastonkim%2Fhit-counter&count_bg=%23000000&title_bg=%23F70000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Hi there 👋  I'm Astonkim  
+#### [<img src="https://img.shields.io/badge/Github.io-181717?style=flat-square&logo=Github&color=darkblue&logoColor=white"/></a>](https://astonkim.github.io) 👈 Go to my github.io DEVLOG
+
+## Hi there 👋  I'm Astonkim  
 
 , 𝑷𝒆𝒓𝒔𝒐𝒏𝒂𝒍 𝑻𝒓𝒂𝒊𝒏𝒆𝒓 & 𝑷𝒊𝒍𝒂𝒕𝒆𝒔 𝑰𝒏𝒔𝒕𝒓𝒖𝒄𝒕𝒐𝒓, 𝒘𝒉𝒐 𝒊𝒔 𝒗𝒆𝒓𝒚 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒆𝒅 𝒊𝒏 "𝑪𝒐𝒅𝒊𝒏𝒈" 𝒔𝒊𝒏𝒄𝒆 2021.
 
