@@ -1,24 +1,28 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fastonkim%2Fhit-counter&count_bg=%23000000&title_bg=%23F70000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## Hello, world.👋  I'm Nammin Kim.  
 
-#### [<img src="https://img.shields.io/badge/Github.io-181717?style=flat-square&logo=Github&color=darkblue&logoColor=white"/></a>](https://astonkim.github.io) 👈 Go to my github.io DEVLOG
+I am ongoing M.S.–Ph.D. integrated student at Hanyang University since 2026, 
 
-## Hi there 👋  I'm Astonkim  
-
-, 𝑷𝒆𝒓𝒔𝒐𝒏𝒂𝒍 𝑻𝒓𝒂𝒊𝒏𝒆𝒓 & 𝑷𝒊𝒍𝒂𝒕𝒆𝒔 𝑰𝒏𝒔𝒕𝒓𝒖𝒄𝒕𝒐𝒓, 𝒘𝒉𝒐 𝒊𝒔 𝒗𝒆𝒓𝒚 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒆𝒅 𝒊𝒏 "𝑪𝒐𝒅𝒊𝒏𝒈" 𝒔𝒊𝒏𝒄𝒆 2021.
-
-- 🎓 I'm double majoring in Business Admin. & Data Science Software in Dongguk Univ.
-- 🌐 I'm the member of Mensa Korea since 2017.
-- 🧑‍💻 I'm interested in developing many things related to human health care system.
+with research interests in RecSys, Deep Learning, and Large-Scale Data Analysis.
 
 I'm not much talented...
 
 ⚡️ So, I just practice, practice and practice!
 
 ## TMI about me
-- I'm maximalist
-- I love Black & White
-- I usually run in the morning at Han-river
+- I'm maximalist.
+- I love Black & White.
+- I usually run in the morning at Han-river or meditate.
 
+## Education
+- Dongguk University, Seoul ✅
+  
+  - B.S. in Data Science Software
+  - B.B.A. in Business Administration (Double Major)
+
+- Hanyang University, Seoul ⏳
+
+  - M.S.–Ph.D. Integrated Program in Artificial Intelligence (ongoing)
+  - Research Focus: Recommendation Systems & Data Science
 
 
 <h3>🛠 Tech Stack 🛠</h3>
