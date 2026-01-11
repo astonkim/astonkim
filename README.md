@@ -1,4 +1,16 @@
-## Hello, world.👋  I'm Nammin Kim.  
+<!-- header -->
+<p align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2CF4EE&fontColor=033736&height=200&section=header&text=Welcome+to+Nammin's+Github!👋&fontSize=40"/>
+</p>
+
+## Contact
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EB%82%A8%EB%AF%BC-%EA%B9%80-0870b0394/)](https://www.linkedin.com/in/%EB%82%A8%EB%AF%BC-%EA%B9%80-0870b0394/) [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aston0715@apage.hanyang.ac.kr)](mailto:aston0715@apage.hanyang.ac.kr) [![Vercel Badge](https://img.shields.io/badge/Homepage-000000?style=flat-square&logo=vercel&logoColor=white&link=https://astonkim.vercel.app/)](https://astonkim.vercel.app/)
+
+
+## About Me
+
+Hello, world.👋  I'm Nammin Kim.  
 
 I am ongoing M.S.–Ph.D. integrated student at Hanyang University since 2026, 
 
@@ -24,36 +36,41 @@ I'm not much talented...
   - M.S.–Ph.D. Integrated Program in Artificial Intelligence (ongoing)
   - Research Focus: Recommendation Systems & Data Science
 
-
-<h3>🛠 Tech Stack 🛠</h3>
+## 🛠 Tech Stack
+<!-- Programming -->
+### Programming
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
+</p>
+
+<!-- Deep Learning -->
+### Deep Learning
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/></a>
+</p>
+
+<!-- Data Analysis -->
+### Data Analysis
+<p>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
+</p>
+
+<!-- Web Scraping -->
+### Web Scrapping
+<p>
+  <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/></a>
+</p>
+
+<!-- MLOps & Infrastructure -->
+### MLOps & Infrastructure
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Alienware-541BAE?style=flat-square&logo=Alienware&logoColor=white"/></a>
-  
 </p>
-
-<h3>🌈 Follow Me 🌈</h3>
-<p>
-  <a href="https://www.instagram.com/skykim__fit/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/skykim__fit/"/></a>&nbsp
-  <a href="https://www.youtube.com/channel/UCPJIYxPylOyOVFpkFiH5Ggw"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCPJIYxPylOyOVFpkFiH5Ggw"/></a>
-  <a href="mailto:knm9907@dgu.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=knm9907@dgu.ac.kr"/></a>
-</p>
-
-
-<h3>👩‍💻 My Github Stats 👩‍💻</h3>
-<div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=astonkim&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</div>
