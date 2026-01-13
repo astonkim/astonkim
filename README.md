@@ -21,9 +21,18 @@ I'm not much talented...
 ⚡️ So, I just practice, practice and practice!
 
 ## TMI about me
-- I'm maximalist.
-- I love Black & White.
-- I usually run in the morning at Han-river or meditate.
+- MBTI : ENTJ
+- I enjoy optimizing my desk setup.
+- I appreciate quiet luxury — gold, diamonds, and refined details.
+- I try to remove noise — in code, space, and life.
+- I optimize my mornings like a system pipeline.
+- I usually run along the Han River or meditate.
+
+## Side Quests outside the Lab
+- 🐬 Freediver & Scuba Diver
+- 🧘 Pilates Instructor (8+ years)
+- 🗣️ Medical Translator (JP-KR)
+
 
 ## Education
 - Dongguk University, Seoul ✅
@@ -33,7 +42,7 @@ I'm not much talented...
 
 - Hanyang University, Seoul ⏳
 
-  - M.S.–Ph.D. Integrated Program in Artificial Intelligence (ongoing)
+  - M.S.–Ph.D. Integrated Program in Artificial Intelligence (ongoing 2026~)
   - Research Focus: Recommendation Systems & Data Science
 
 ## 🛠 Tech Stack
